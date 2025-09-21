@@ -15,6 +15,12 @@ sudo apt update
 ```bash
 sudo apt install curl dnsutils ncurses-bin xdg-utils jq parallel getent
 ```
+or
+
+```bash
+sudo apt install curl bind9-dnsutils ncurses-bin xdg-utils jq parallel net-tools
+
+```
 
 ```bash
 git clone https://github.com/zidan9656/LEGEND-SUBDOMAIN-FINDER.git
