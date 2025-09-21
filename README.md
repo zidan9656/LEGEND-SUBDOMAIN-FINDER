@@ -6,3 +6,16 @@ This tool is specifically designed to identify and enumerate the subdomains asso
   <img src="https://github.com/zidan9656/IMAGE/blob/main/Debian%2012.x%2064-bit%20-%20VMware%20Workstation%2021-09-2025%2012_33_16.png" width="700px">
   <br>
 </h1>
+
+# INSTALLATION
+```bash
+sudo apt update
+```
+
+```bash
+sudo apt install curl dnsutils ncurses-bin xdg-utils jq parallel getent
+```
+
+```bash
+git clone https://github.com/zidan9656/LEGEND-SUBDOMAIN-FINDER.git
+```
