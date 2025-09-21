@@ -25,3 +25,18 @@ sudo apt install curl bind9-dnsutils ncurses-bin xdg-utils jq parallel net-tools
 ```bash
 git clone https://github.com/zidan9656/LEGEND-SUBDOMAIN-FINDER.git
 ```
+
+```bash
+cdmod +x LEGEND_SUBDOMAIN_FINDER.sh
+```
+
+```bash
+./LEGEND_SUBDOMAIN_FINDER.sh
+```
+
+or
+
+
+```bash
+bash LEGEND_SUBDOMAIN_FINDER.sh
+```
