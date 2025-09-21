@@ -32,7 +32,7 @@ cd LEGEND-SUBDOMAIN-FINDER
 ```
 
 ```bash
-cdmod +x LEGEND_SUBDOMAIN_FINDER.sh
+chmod +x LEGEND_SUBDOMAIN_FINDER.sh
 ```
 
 ```bash
